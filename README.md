@@ -62,13 +62,13 @@ I have implemented vaulting with motion warping. For vaulting, we can break down
 
 ![Alt Text](https://github.com/amyash19/LocomotionSystemUE5/blob/main/Images/Vault%20montage.png)
 
-This image shows how vault is adjusted with motion warping. The red debug line indicates where the animation would normally go and it shows that it would go through the platform and this wouldn't work for different heights. THe blue debug shows where motion warping is adjusting the character's root motion as dicdated by our set target locations.
+This image shows how vault is adjusted with motion warping. The red debug line indicates where the animation would normally go and it shows that it would go through the platform and this wouldn't work for different heights. The blue debug shows where motion warping is adjusting the character's root motion as dictated by our set target locations.
 
 ![Alt Text](https://github.com/amyash19/LocomotionSystemUE5/blob/main/Images/vaultmw.png)
 
 https://github.com/amyash19/LocomotionSystemUE5/assets/123622195/9c7b411e-84b3-4336-b7f9-eae46e0c7a75
 
-Motion warping is a powerful and useful tool that can be used for vaulting, amntling, hit reacts, dodging, opening a door, pushing a button, etc. I plan to implemnet mantling next.
+Motion warping is a powerful and useful tool that can be used for vaulting, mantling, hit reacts, dodging, opening a door, pushing a button, etc. I plan to implemnet mantling next.
 
 
 ## Motion Matching
