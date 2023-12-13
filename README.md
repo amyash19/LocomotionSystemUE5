@@ -93,3 +93,5 @@ The Motion Matching Animation Blueprint node is a dynamic alternative to State M
 * Locomotion improvements (Turn in place, idle break, sprinting, height based landing, etc).
 * Continue work on motion matching.
 * Adding anim link layers for melee weapons.
+* Quadruped character control rig and foot Ik.
+* Interaction control between creature (carrier) and character, both physics and animation based.
