@@ -85,3 +85,11 @@ The Motion Matching Animation Blueprint node is a dynamic alternative to State M
 ![Alt Text](https://github.com/amyash19/LocomotionSystemUE5/blob/main/Images/MM%20abp.png)
 
 
+## Upcoming work
+
+* Mantling with motion warping.
+* Climbing with motion warping and Hand and Foot IK control rig.
+* Physical animation (physics-driven animation/physics based animation blending) For example, during a hit react, a character's limbs shouldn't go through the geometry. 
+* Locomotion improvements (Turn in place, idle break, sprinting, height based landing, etc).
+* Continue work on motion matching.
+* Adding anim link layers for melee weapons.
